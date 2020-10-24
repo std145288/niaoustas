@@ -1,2 +1,2 @@
-# NIAOUSTAS IOANNIS ![Niaoustas Ioannis]()
+# NIAOUSTAS IOANNIS ![Niaoustas Ioannis](/images/niaoustasStudy.jpg)
 MyCV
