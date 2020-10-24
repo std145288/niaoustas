@@ -1,3 +1,4 @@
 # NIAOUSTAS IOANNIS 
-![Niaoustas Ioannis](/images/niaoustasStudy2.jpg =50%)
+![Niaoustas Ioannis]()
+<img src="/images/niaoustasStudy2.jpg" width="80" height="80" />
 MyCV
