@@ -3,7 +3,7 @@
 
 
 ## Contact Details
-![Address](/icons/map.png)<pre>Chania, Crete&nbsp;&nbsp;![Phone](/icons/phone.png) 1234567890
+![Address](/icons/map.png)Chania, Crete &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Phone](/icons/phone.png) 1234567890
 
 ![Email](/icons/email.png) std145288@ac.eap.gr
 
