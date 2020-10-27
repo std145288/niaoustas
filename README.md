@@ -3,16 +3,18 @@
 
 
 ## Contact Details
-*Address: Chania, Crete
-*Phone: 1234567890
-*Email: std145288@ac.eap.gr
-*[Facebook:](http://facebook.com)
+* Address: Chania, Crete
+* Phone: 1234567890
+* Email: std145288@ac.eap.gr
+* Facebook: [MyFacebook](http://facebook.com)
 
 ## Education
 MSc | Hellenic Open University
 >October 2019 - Present
+
 BSc Computer Science | Hellenic Open University
 >October 2014 - July 2019
+
 BSc Civil Engineer | Hellenic Open University
 >October 1997 - June 2004
 
