@@ -4,9 +4,9 @@
 
 ## Contact Details
 * Address: Chania, Crete
-* Phone: 1234567890
+![Phone](/images/icons/phone.png) 1234567890
 * Email: std145288@ac.eap.gr
-* Facebook: [MyFacebook](http://facebook.com)
+![Facebook](/images/icons/facebook.png) [MyFacebook](http://facebook.com)
 
 ## Education
 MSc Pervasive and Mobile Computing Systems | Hellenic Open University
