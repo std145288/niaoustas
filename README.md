@@ -9,6 +9,10 @@
 ![Facebook](/icons/facebook.png) [MyFacebook](http://facebook.com)
 
 ## Education
+
+<details>
+  <summary>Click to expand!</summary>
+
 MSc Pervasive and Mobile Computing Systems | Hellenic Open University
 >October 2019 - Present
 
@@ -17,6 +21,7 @@ BSc Computer Science | Hellenic Open University
 
 BSc Civil Engineer | Hellenic Open University
 >October 1997 - June 2004
+</details>
 
 ## Work Experience
 
