@@ -3,9 +3,10 @@
 
 
 ## Contact Details
-* Address: Chania, Crete
+Address: Chania, Crete
+
 ![Phone](/images/icons/phone.png) 1234567890
-* Email: std145288@ac.eap.gr
+Email: std145288@ac.eap.gr
 ![Facebook](/images/icons/facebook.png) [MyFacebook](http://facebook.com)
 
 ## Education
