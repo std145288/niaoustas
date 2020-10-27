@@ -49,4 +49,4 @@ BSc Civil Engineer | Hellenic Open University
 ## Some tasks placed for this month
 - [x] Create a CV on Github
 - [ ] Complete 1st assignment of SDY60 Course
-- [ ] Follow reading scedulepho as given in SDY60 Course
+- [ ] Follow study schedule as suggested in SDY60 Course
