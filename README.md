@@ -1,9 +1,14 @@
 # NIAOUSTAS IOANNIS             ![Nioaustas Ioannis](/images/niaoustasStudy3.jpg) 
-* Item 1 * Item 2
+
 
 
 
 
 scscsc
-## Εκπαί
+## Contact Details
+* Item 1 
+* Item 2
 
+## Education
+
+## Skills
