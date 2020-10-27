@@ -18,7 +18,7 @@ BSc Computer Science | Hellenic Open University
 BSc Civil Engineer | Hellenic Open University
 >October 1997 - June 2004
 
-## Work Experince
+## Work Experience
 
 ## Skills
 1. Programming
