@@ -9,7 +9,7 @@
 * Facebook: [MyFacebook](http://facebook.com)
 
 ## Education
-MSc | Hellenic Open University
+MSc Pervasive and Mobile Computing Systems | Hellenic Open University
 >October 2019 - Present
 
 BSc Computer Science | Hellenic Open University
@@ -49,4 +49,4 @@ BSc Civil Engineer | Hellenic Open University
 ## Some tasks placed for this month
 - [x] Create a CV on Github
 - [ ] Complete 1st assignment of SDY60 Course
-- [ ] Follow reading table as given in SDY60 Course
+- [ ] Follow reading scedulepho as given in SDY60 Course
