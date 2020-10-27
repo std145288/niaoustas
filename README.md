@@ -11,8 +11,10 @@
 ## Education
 MSc Pervasive and Mobile Computing Systems | Hellenic Open University
 >October 2019 - Present
+
 BSc Computer Science | Hellenic Open University
 >October 2014 - July 2019
+
 BSc Civil Engineer | Hellenic Open University
 >October 1997 - June 2004
 
