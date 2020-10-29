@@ -8,6 +8,8 @@
 ![Email](/icons/email.png) std145288@ac.eap.gr &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Facebook](/icons/facebook.png) [MyFacebook](http://facebook.com)
 
+<hr style="border:2px solid gray"> </hr>
+
 ## Education
 MSc Pervasive and Mobile Computing Systems | Hellenic Open University
 >October 2019 - Present
@@ -15,7 +17,7 @@ MSc Pervasive and Mobile Computing Systems | Hellenic Open University
 BSc Computer Science | Hellenic Open University
 >October 2014 - July 2019
 
-BSc Civil Engineer | Hellenic Open University
+BEng Civil Infrastructure Engineer | ATEI Patras
 >October 1997 - June 2004
 
 ## Work Experience
