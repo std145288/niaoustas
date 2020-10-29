@@ -24,9 +24,9 @@ BEng Civil Infrastructure Engineer | ATEI Patras
 
 | Period  | Employer | Role |
 | ------------- | ------------- | ------------- |
-| 2016-today  | Content Cell  | Head Survey engineer  |
-| 2006-2015  | Content Cell  | Head Survey engineer   |
-| 2003-2005  | Content Cell  | Assistant Survey engineer   |
+| 2016-today  | Rural & Surveying Consultant Engineers  | Head Survey engineer  |
+| 2006-2015  | Rural & Surveying Consultant Engineers  | Head Survey engineer   |
+| 2003-2005  | ERGO ATE - Infrastructure Works Company  | Assistant Survey engineer   |
 
 
 ## Skills
