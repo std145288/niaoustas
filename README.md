@@ -22,12 +22,19 @@ BEng Civil Infrastructure Engineer | ATEI Patras
 
 ## Work Experience
 
+| Period  | Employer | Role |
+| ------------- | ------------- | ------------- |
+| 2016-today  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 ## Skills
 1. Programming
-   - C language   | Very Good
-   - Java         | Very Good
-   - Python       | Good
-   - SQL          | Good
+   - C | Very Good
+   - Java&nbsp;&nbsp;| Very Good
+   - Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Good
+   - SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Good
 2. Web Development
    - HTML
    - CSS
