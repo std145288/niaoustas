@@ -3,14 +3,14 @@
 
 
 ## Contact Details
+
 ![Address](/icons/map.png)Chania, Crete &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![Phone](/icons/phone.png) 1234567890 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Email](/icons/email.png) std145288@ac.eap.gr &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Facebook](/icons/facebook.png) [MyFacebook](http://facebook.com)
 
-<hr style="border:2px solid gray"> </hr>
-
 ## Education
+
 MSc Pervasive and Mobile Computing Systems | Hellenic Open University
 >October 2019 - Present
 
@@ -24,10 +24,10 @@ BEng Civil Infrastructure Engineer | ATEI Patras
 
 ## Skills
 1. Programming
-   - C language
-   - Java
-   - Python
-   - SQL
+   - C language   | Very Good
+   - Java         | Very Good
+   - Python       | Good
+   - SQL          | Good
 2. Web Development
    - HTML
    - CSS
