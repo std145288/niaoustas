@@ -47,6 +47,14 @@ BEng Civil Infrastructure Engineer | ATEI Patras
      - Raster Design , Excellent
     - Microsoft Office , Very Good
 
+## Spoken Languages
+
+| Period  | Employer | 
+| ------------- | ------------- | 
+| Greek  | Native  | 
+| English  | Very Good  | 
+| French  | Basic  | 
+
 ## Interests & Activities
 - Walking
 - Dancing
