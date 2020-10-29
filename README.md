@@ -49,7 +49,7 @@ BEng Civil Infrastructure Engineer | ATEI Patras
 
 ## Spoken Languages
 
-| Period  | Employer | 
+| Languages  | Level | 
 | ------------- | ------------- | 
 | Greek  | Native  | 
 | English  | Very Good  | 
