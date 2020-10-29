@@ -24,28 +24,28 @@ BEng Civil Infrastructure Engineer | ATEI Patras
 
 | Period  | Employer | Role |
 | ------------- | ------------- | ------------- |
-| 2016-today  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| 2016-today  | Content Cell  | Head Survey engineer  |
+| 2006-2015  | Content Cell  | Head Survey engineer   |
+| 2003-2005  | Content Cell  | Assistant Survey engineer   |
+
 
 ## Skills
 1. Programming
-   - C | Very Good
-   - Java&nbsp;&nbsp;| Very Good
-   - Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Good
-   - SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Good
+   - C , Good
+   - Java , Very Good
+   - Python , Good
+   - SQL, Good
 2. Web Development
-   - HTML
-   - CSS
-   - PHP
-   - Javascript
+   - HTML , Good
+   - CSS , Good
+   - PHP , Good
+   - Javascript , Good
 3. Software User
    - Autodesk
-     - AutoCAD
-     - Civil 3D
-     - Raster Design
-    - Microsoft Office
+     - AutoCAD , Excellent
+     - Civil 3D , Excellent
+     - Raster Design , Excellent
+    - Microsoft Office , Very Good
 
 ## Interests & Activities
 - Walking
